@@ -1,4 +1,4 @@
-# Heart-Design-Prediction-Projects
+# Heart-Disease-Prediction-Projects
 ❤️ Heart Disease Prediction using Machine Learning 📌 Project Description  This project predicts the risk of heart disease using Machine Learning. The model is built using the K-Nearest Neighbors (KNN) algorithm and deployed using Streamlit.
 
 Users can input medical details such as age, cholesterol, blood pressure, etc., and the system predicts whether the person has high or low risk of heart disease.
